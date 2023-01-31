@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React, CI/CD pipelines (Jenkis),Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on **Java Full stack | React **
+- 👯 I’m looking to collaborate on **Java Full stack , React **
 
-- 💬 Ask me about **Core Java, Spring Framework & Microservices **
+- 💬 Ask me about **Core Java, Spring Framework , Microservices **
 
 - 📫 How to reach me **snehashisball@gmail.com**
 
