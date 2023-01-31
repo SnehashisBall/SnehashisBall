@@ -1,5 +1,10 @@
 ![MasterHead](//https://cdn.dribbble.com/users/79486/screenshots/1505622/media/243d42a729163b1ce6bd7d4812ffc4ea.jpg)
-<h1 align="center">Voila 👋, It's great to see you here , myself Snehashis</h1>
+
+<h1 align="center">Voila <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> It's great to see you , myself Snehashis</h1>
+         
 <h3 align="center">A passionate Fullstack developer🚀 | Aspiring Blogger📸</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
