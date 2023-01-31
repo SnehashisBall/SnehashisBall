@@ -33,7 +33,7 @@
 
 
 
-<img align="left" alt="Bootsrap" width="30px" style="padding-right:10px; src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+<img align="left" alt="Bootsrap" width="30px" style="padding-right:10px"; src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
 
 ###<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 
