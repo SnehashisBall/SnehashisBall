@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A surprise project which I will reveal sooner**
 
-- 🌱 I’m currently learning **React, CI/CD pipelines (Jenkis),DSA & Algo**
+- 🌱 I’m currently learning **React, CI/CD pipelines (Jenkis),Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **Java Full stack | React **
 
