@@ -41,7 +41,7 @@
 
 <details>
 <summary><h3>👨‍💻Vishal Coding Journey</h3></summary>
-Hy myself Snehashis Ball a.k.a Vishal from India started my development journey during my 6th semester during my graduation in Electronics & Communication Engineering . Passionate about web development and solving real world problems using  analytical skills has been my area of interest.I was always into fasinaction about how such beautiful mobile-based applications are developed.That kicked my adrenaline rush .And that's how I started my coding journey.</details>
+Hi myself Snehashis Ball a.k.a Vishal from India started my development journey during 6th semester while pursuing graduation in Electronics & Communication Engineering . Passionate about web development and solving real world problems using  analytical skills has been my area of interest.I was always into fasinaction about how such beautiful mobile-based applications are developed.That kicked my adrenaline rush .And that's how I started my coding journey.</details>
          
  ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)        
